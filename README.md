@@ -2,5 +2,5 @@
 
 ## Landing pages
 
-![image](/img/Desktop.png)
-![image](/img/Feed.png)
+![image](/img/Web.png)
+![image](/img/Mobile.png)
